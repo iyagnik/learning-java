@@ -1,4 +1,7 @@
-// import static org.junit.jupiter.api.Assertions.assertEquals;
+package S1;
+
+
+// S1 Introsunction to Java
 
 // import org.junit.jupiter.api.Test;
 
@@ -11,9 +14,5 @@ public class Main {
     String name = sc.nextLine();
     System.out.println("Hello " + name);
   }
-
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
 }
+
