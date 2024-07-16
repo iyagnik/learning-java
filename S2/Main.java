@@ -6,7 +6,10 @@ package S2;
 // Packages: Group classes.
 // They're a bit like a folder. Why we need that => Organize, unique names, Import.
 // Java comes with a lot of built in packages (called Java API sometimes)
+// Inside a package, classes must have unique names.
+// Packages can be imported in classes outside the package.
 
+// Intances == Objects
 
 // Class Members: 1) Part of the instance 2) Part of the class
 
